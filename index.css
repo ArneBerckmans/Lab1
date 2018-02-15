@@ -1,3 +1,26 @@
 html{
-	background-color: red;
+	font-family: 'Arial';
+}
+
+.kop{
+	width: 100%;
+	height: auto;
+	background-color: #dcdcdc;
+}
+
+.titel{
+	font-family: 'Alfa Slab One';
+	letter-spacing: 2px;
+	color: rgb(100,100,100);
+	text-transform: uppercase;
+}
+
+.login{
+	padding:10px 20px;
+	background-color: #332cf6;
+	font-family: 'Alfa Slab One';
+	letter-spacing: 1px;
+	border:0px;
+	border-radius: 5px;
+	color:white;
 }

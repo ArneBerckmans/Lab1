@@ -1,0 +1,37 @@
+.formvragen{
+	width: 100%;
+	height: auto;
+	padding: 40px 0;
+	background-color: #fbedee;
+	text-align: center;
+}
+
+.formvragen h1{
+	text-transform: none;
+	color: #de6038;
+}
+
+.formvragen input{
+	width: 75%;
+	height: 50px;
+	margin-bottom: 20px;
+	padding-left: 20px; 
+	border: 3px solid #dfadb0;
+
+}
+
+.Hottopics h2{
+	font-family: 'Alfa Slab One';
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+.topicWrapper{
+	width: 95%;
+	margin: auto;
+	border-bottom: 1px solid LightGrey;
+}
+
+.topicWrapper img, p{
+	display: inline-block;	
+}

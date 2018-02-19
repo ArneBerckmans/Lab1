@@ -1,0 +1,22 @@
+.header{
+	width: 100%;
+	padding: 20px 0;
+	background-color: #fdf5f6;
+}
+
+.header h1{
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	text-transform: none;
+	color: #de6038;
+}
+
+.likes{
+	width: 100%;
+	background-color: #fbedee;
+}
+
+.likes p{
+	color: #de6038;
+}

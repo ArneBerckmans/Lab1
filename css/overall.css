@@ -1,0 +1,25 @@
+html{
+	font-family: Helvetica, Arial, Sans-Serif;
+	color: #434657;
+}
+
+header{
+	width: 100%;
+	background-color: #434657;
+}
+
+button{
+	font-family: 'Alfa Slab One';
+	letter-spacing: 1px;
+	background-color: #3b1cff;
+	padding: 10px 20px;
+	border: 0px;
+	border-radius: 5px;
+	color: white;
+}
+
+.titel{
+	font-family: 'Alfa Slab One';
+	letter-spacing: 2px;
+	text-transform: uppercase;
+}
